@@ -5,6 +5,8 @@ mine.
 ## Categories
 - [IDE and Text Editors](ides-and-text-editors)
 
+---
+
 ### IDEs and Text Editors
 * TextAdept
   * TAParkour Plugin
